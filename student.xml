@@ -1,0 +1,21 @@
+<Student>
+   <firstName>Durgaprasad</firstName>
+   <lastName>p</lastName>
+   <dob>05-03-1983</dob>
+   <addresses>
+        <address type="temporary">
+           <doorno>14-389</doorno>
+           <streetname>gandhi nagar</streetname>
+           <city>Hyderabad</city>
+           </address>
+        <address type ="permanent">
+           <doorno>12-43</doorno>
+           <streetname>vsisali nagar</streetname>
+           <city>Hyderabad</city>
+        </address>
+    </addresses>
+</Student>        
+        
+
+
+
