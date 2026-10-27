@@ -3,4 +3,4 @@
   connection: local # it would not expect credentials
   tasks: tasks== modules == collections
 - name: ping localhost
-  ping:
+   ansible.builtin.ping:
