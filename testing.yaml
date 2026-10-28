@@ -1,5 +1,5 @@
 - name: PLAY-1
-  hosts: host1
+  hosts: local
   connection: local
   tasks:
   - name: task1
@@ -10,7 +10,7 @@
       msg: "fghfhgh"
 
 - name: PLAY-2
-  hosts: host2
+  hosts: local
   connection: local
   tasks:
   - name: task3
