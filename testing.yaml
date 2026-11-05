@@ -15,6 +15,6 @@
   tasks:
   - name: task3
     debug:
-      msg: "rtrytrytryr"
+      msg: "trytrytryr"
 
   
